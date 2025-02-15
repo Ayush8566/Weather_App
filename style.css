@@ -14,7 +14,7 @@ body{
     align-items: center;
    /* background:url('https://source.unsplash.com/1600x900/?weather') no-repeat center center fixed;*/
     background-size: cover;
-    background-image: url('/assets/image.jpg');
+    background-image:url('/image.jpg');
 }
 
 .container{
