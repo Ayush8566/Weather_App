@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     background-size: cover;
-   background-image: url('./assets/image.jpg'), url('https://source.unsplash.com/1600x900/?weather') no-repeat center center fixed;
+   background-image: url('./assets/image.jpg');
 
 }
 
